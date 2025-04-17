@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use BladeUI\Icons\Components\Svg;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Components\Svg;
 use Illuminate\Support\Facades\Blade;
 use InvalidArgumentException;
 

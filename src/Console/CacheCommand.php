@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BladeUI\Icons\Console;
+namespace DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Console;
 
 use BladeUI\Icons\Factory;
 use BladeUI\Icons\IconsManifest;

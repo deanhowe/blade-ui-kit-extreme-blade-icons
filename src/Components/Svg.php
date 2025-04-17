@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BladeUI\Icons\Components;
+namespace DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Components;
 
 use Closure;
 use Illuminate\View\Component;

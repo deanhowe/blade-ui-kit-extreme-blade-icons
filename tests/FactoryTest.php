@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use BladeUI\Icons\Exceptions\SvgNotFound;
-use BladeUI\Icons\Factory;
-use BladeUI\Icons\IconsManifest;
-use BladeUI\Icons\Svg;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Exceptions\SvgNotFound;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Factory;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\IconsManifest;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Svg;
 use Illuminate\Filesystem\Filesystem;
 use Mockery;
 

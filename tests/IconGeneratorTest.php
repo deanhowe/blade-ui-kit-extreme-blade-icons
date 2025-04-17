@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use BladeUI\Icons\Generation\IconGenerator;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Generation\IconGenerator;
 use Illuminate\Filesystem\Filesystem;
 use SplFileInfo;
 

@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use BladeUI\Icons\IconsManifest;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\IconsManifest;
 use Exception;
 use Illuminate\Filesystem\Filesystem;
 

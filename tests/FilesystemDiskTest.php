@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use BladeUI\Icons\Factory;
-use BladeUI\Icons\Svg;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Factory;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Svg;
 
 class FilesystemDiskTest extends TestCase
 {

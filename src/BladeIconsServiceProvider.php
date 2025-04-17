@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace BladeUI\Icons;
+namespace DeanHowe\BladeUIKitExtremeBladeIcons\Icons;
 
-use BladeUI\Icons\Components\Icon;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Components\Icon;
 use Illuminate\Contracts\Filesystem\Factory as FilesystemFactory;
 use Illuminate\Contracts\View\Factory as ViewFactory;
 use Illuminate\Filesystem\Filesystem;

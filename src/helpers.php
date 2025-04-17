@@ -2,8 +2,8 @@
 
 declare(strict_types=1);
 
-use BladeUI\Icons\Factory;
-use BladeUI\Icons\Svg;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Factory;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Svg;
 
 if (! function_exists('svg')) {
     function svg(string $name, $class = '', array $attributes = []): Svg

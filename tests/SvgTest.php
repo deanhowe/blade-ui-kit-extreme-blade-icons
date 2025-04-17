@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use BladeUI\Icons\Svg;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Svg;
 use PHPUnit\Framework\TestCase;
 
 class SvgTest extends TestCase

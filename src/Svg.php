@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace BladeUI\Icons;
+namespace DeanHowe\BladeUIKitExtremeBladeIcons\Icons;
 
-use BladeUI\Icons\Concerns\RendersAttributes;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Concerns\RendersAttributes;
 use Illuminate\Contracts\Support\Htmlable;
 use Illuminate\Support\Str;
 

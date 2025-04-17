@@ -117,7 +117,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "BladeUI\\Icons\\": "src"
+            "DeanHowe\\BladeUIKitExtremeBladeIcons\\Icons\\": "src"
         },
         "files": [
             "src/helpers.php"

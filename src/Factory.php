@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace BladeUI\Icons;
+namespace DeanHowe\BladeUIKitExtremeBladeIcons\Icons;
 
-use BladeUI\Icons\Components\Svg as SvgComponent;
-use BladeUI\Icons\Exceptions\CannotRegisterIconSet;
-use BladeUI\Icons\Exceptions\SvgNotFound;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Components\Svg as SvgComponent;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Exceptions\CannotRegisterIconSet;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Exceptions\SvgNotFound;
 use Illuminate\Contracts\Filesystem\Factory as FilesystemFactory;
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
 use Illuminate\Filesystem\Filesystem;

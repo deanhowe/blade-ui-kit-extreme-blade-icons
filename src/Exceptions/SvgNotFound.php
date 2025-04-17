@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BladeUI\Icons\Exceptions;
+namespace DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Exceptions;
 
 use Exception;
 

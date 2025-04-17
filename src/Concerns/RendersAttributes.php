@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BladeUI\Icons\Concerns;
+namespace DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Concerns;
 
 use Illuminate\Support\Str;
 

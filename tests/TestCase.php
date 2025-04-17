@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use BladeUI\Icons\BladeIconsServiceProvider;
-use BladeUI\Icons\Factory;
-use BladeUI\Icons\IconsManifest;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\BladeIconsServiceProvider;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Factory;
+use DeanHowe\BladeUIKitExtremeBladeIcons\Icons\IconsManifest;
 use Illuminate\Contracts\Filesystem\Factory as FilesystemFactory;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Foundation\Testing\Concerns\InteractsWithViews;

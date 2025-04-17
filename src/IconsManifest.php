@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BladeUI\Icons;
+namespace DeanHowe\BladeUIKitExtremeBladeIcons\Icons;
 
 use Exception;
 use Illuminate\Contracts\Filesystem\Factory as FilesystemFactory;

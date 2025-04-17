@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BladeUI\Icons\Generation;
+namespace DeanHowe\BladeUIKitExtremeBladeIcons\Icons\Generation;
 
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Arr;
