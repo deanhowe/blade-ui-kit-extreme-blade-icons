@@ -105,7 +105,7 @@
         "symfony/finder": "^5.3|^6.0|^7.0",
         "themesberg/flowbite-blade-icons": "dev-main",
         "ublabs/blade-coreui-icons": "^0.4.0",
-        "ublabs/blade-simple-icons": "^0.152.0"
+        "ublabs/blade-simple-icons": "^0.185.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.5.1",
